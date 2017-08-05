@@ -4,7 +4,7 @@ void main()
 {
 int a;
 printf("Enter a num");
-scanf("%d",a);
+scanf("%d",&a);
 if(a>0)
 printf("Positive number");
 elseif(a=0)
